@@ -1,5 +1,6 @@
 # LATIHAN5DPBO2023
-
+Saya Mohammad Ray Mosaid mengerjakan Latihan 5 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin. <br>
+<br>
 Penjelasan hasil program:<br>
 <br>
    Pada tugas ini adalah membuat form yang terdiri dari 3 Textfield (NIM, Nama, Nilai) dan 1 lagi bebas, saya menggunakan dropdown (Program Studi), lalu ada tombol-tombol yaitu tombol add, delete, cancel, dan update, tombol yang sama dengan tombol add, dan terakhir hasil dari form tersebut ditampilkan di tabel. Saya membuat 2 class yaitu MainJFrame.java untuk mengurus tampilan depan dari program dan Student.java yang digunakan untuk template dan juga tempat penampung sementara untuk data inputan yang nantinya akan diteruskan untuk dimasukkan ke tabel menggunakan setter dan getter dari class Student.java. <br>
